@@ -1,0 +1,10 @@
+arithmetic/arithmetic.opensdf
+arithmetic/arithmetic.sdf
+arithmetic/Debug/divition.ilk
+arithmetic/Debug/divition.pdb
+arithmetic/project_addition/addition/ReadMe.txt
+*.log
+*.tlog
+*.pdb
+*.obj
+*.idb
