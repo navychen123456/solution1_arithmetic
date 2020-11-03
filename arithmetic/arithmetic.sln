@@ -4,10 +4,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "divition", "project_divition\divition\divition.vcxproj", "{3810AEBE-304C-471F-95DC-3C36B3D635FD}"
 =======
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multiplication", "project_multiplication\multiplication\multiplication.vcxproj", "{FFB62471-15F0-4322-ABDA-A05C50F84286}"
 >>>>>>> multiplication
+=======
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "subtraction", "project_subtraction\subtraction\subtraction.vcxproj", "{BF061B96-85C8-4146-9F9B-E75B7D6AE764}"
+>>>>>>> subtraction
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,7 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 <<<<<<< HEAD
 		{3810AEBE-304C-471F-95DC-3C36B3D635FD}.Debug|Win32.ActiveCfg = Debug|Win32
 		{3810AEBE-304C-471F-95DC-3C36B3D635FD}.Debug|Win32.Build.0 = Debug|Win32
@@ -26,6 +31,12 @@ Global
 		{FFB62471-15F0-4322-ABDA-A05C50F84286}.Release|Win32.ActiveCfg = Release|Win32
 		{FFB62471-15F0-4322-ABDA-A05C50F84286}.Release|Win32.Build.0 = Release|Win32
 >>>>>>> multiplication
+=======
+		{BF061B96-85C8-4146-9F9B-E75B7D6AE764}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF061B96-85C8-4146-9F9B-E75B7D6AE764}.Debug|Win32.Build.0 = Debug|Win32
+		{BF061B96-85C8-4146-9F9B-E75B7D6AE764}.Release|Win32.ActiveCfg = Release|Win32
+		{BF061B96-85C8-4146-9F9B-E75B7D6AE764}.Release|Win32.Build.0 = Release|Win32
+>>>>>>> subtraction
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
