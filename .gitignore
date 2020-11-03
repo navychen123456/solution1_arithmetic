@@ -1,0 +1,11 @@
+*.tlog
+*.pdb
+*.log
+*.obj
+*.idb
+*.txt
+*.exp
+*.opensdf
+*.sdf
+arithmetic/Debug/multiplication.ilk
+arithmetic/Debug/subtraction.ilk
