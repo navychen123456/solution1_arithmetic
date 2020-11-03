@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.tlog
 *.pdb
 *.log
@@ -10,3 +11,16 @@
 arithmetic/Debug/multiplication.ilk
 arithmetic/Debug/subtraction.ilk
 arithmetic/Debug/divition.ilk
+=======
+arithmetic/arithmetic.opensdf
+arithmetic/arithmetic.sdf
+arithmetic/Debug/divition.ilk
+arithmetic/Debug/divition.pdb
+arithmetic/project_addition/addition/ReadMe.txt
+*.log
+*.tlog
+*.pdb
+*.obj
+*.idb
+arithmetic/ipch/unittest1-396bf996/unittest1-484f65fd.ipch
+>>>>>>> divition
