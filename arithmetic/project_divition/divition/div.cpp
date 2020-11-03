@@ -5,9 +5,17 @@
 //除法调用动态实现
 #include "div.h"
 
-float div(float x, float y)
+void div(float x, float y)
 {
-		return x / y;
+	if (y == 0)
+	{
+		printf("除数不能为0\n");
+	}
+	else
+	{
+		printf("a/b= %.3f\n", x / y);
+	}
+
 }
 
 int main()
@@ -23,15 +31,7 @@ int main()
 	float iRet = Load_proc(a, b);
 	printf("a*b= %.3f\n", iRet);
 
-	if (b == 0)
-	{
-		printf("除数不能为0\n");
-		return 0;
-	}
-	else
-	{
-		printf("a/b= %.3f\n", div(a, b));
-	}
+	div(a, b);
 
 	system("pause");
 
